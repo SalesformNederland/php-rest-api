@@ -1,4 +1,4 @@
-Components.php<?php
+<?php
 
 namespace MessageBird\Objects\Conversation\HSM;
 
