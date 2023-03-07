@@ -23,4 +23,9 @@ class Message
      * @var Params[] $params
      */
     public $params;
+
+    /**
+     * @var Components[] $components
+     */
+    public $components;
 }
